@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Jvcosta18
 
 - 🌱 Atualmente estou aprendendo Java  
-- 😄 Pronomes: Ele/Dele
+
 
 <a href="https://github.com/Jvcosta18?tab=repositories&sort=stargazers">
     <img 
