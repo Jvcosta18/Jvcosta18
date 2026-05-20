@@ -1,4 +1,4 @@
-# Hi 👋, I'm Herbert Souza
+# Hi 👋, I'm João Victor 
 
 🚀 **computer science student**  
 🇧🇷 Brazil
@@ -13,11 +13,7 @@
   <a href="https://instagram.com/joaovictorscottini">
     <img src="https://img.shields.io/badge/Instagram-@joaovictorscottini-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
----
-
-
-
+  
 ---
 
 ## 🛠️ Tech Stack
